@@ -1,1 +1,19 @@
+{
+  "name": "rpg-vtt-frontend",
+  "private": true,
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "socket.io-client": "^4.7.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "vite": "^5.0.10",
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17"
+  }
+}
 
