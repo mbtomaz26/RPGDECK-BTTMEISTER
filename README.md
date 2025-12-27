@@ -12,6 +12,6 @@ Mesa virtual de RPG em tempo real, agnóstica a sistema.
 ## Como rodar localmente
 
 ```bash
-cd backend
+cd frontend
 npm install
 npm run dev
